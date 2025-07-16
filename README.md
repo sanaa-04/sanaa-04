@@ -6,6 +6,10 @@ Hi 👋 I'm Sana, a seasoned Data Science enthusiast with a Master's Degree in C
 I love learning new stuff and sharing knowledge! 📈
 
 📧 Reach out in a flash on my email: sanamansoori705@gmail.com 🚀
+
+<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/8ddeb48b-d04e-47b0-bc1c-2d8cd1a4955a" />
+
+
 <!--
 **sanaa-04/sanaa-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
