@@ -7,7 +7,12 @@ I love learning new stuff and sharing knowledge! 📈
 
 📧 Reach out in a flash on my email: sanamansoori705@gmail.com 🚀
 
-<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/8ddeb48b-d04e-47b0-bc1c-2d8cd1a4955a" />
+<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/80ea65c4-3f8c-4046-bd11-92987186a0ed" />
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/dff5b695-5896-4842-96ec-9deab9c0c59d" />
+
+
+
+
 
 
 <!--
