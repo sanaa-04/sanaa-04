@@ -1,5 +1,9 @@
 ## Hi there 👋
+Connect with me here 
 
+Hi 👋 I'm Sana, a seasoned Data Science enthusiast with a Master's Degree in Computer Science with AI ML specialization⚡⚡.
+I love learning new stuff and sharing knowledge! 📈
+📧 Reach out in a flash on my email: sanamansoori705@gmail.com 🚀
 <!--
 **sanaa-04/sanaa-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
