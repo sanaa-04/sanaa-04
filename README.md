@@ -1,5 +1,4 @@
 ## Hi there 👋
-Connect with me here 
 
 Hi 👋 I'm Sana, a seasoned Data Science enthusiast with a Master's Degree in Computer Science with AI ML specialization⚡⚡.
 
