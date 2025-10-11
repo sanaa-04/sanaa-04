@@ -27,7 +27,7 @@
 I haven’t worked in other fields and don’t have skills outside this area. 🎯
 
 **LinkedIn > long bios** — check out my profile:
-🔗 [www.linkedin.com/in/brahme27](https://www.linkedin.com/in/brahme27)
+🔗 [www.linkedin.com/in/sanaa04](https://www.linkedin.com/in/sanaa04)
 Every post shows my real work. 💼
 
 ### 🛠️ **Practical Skills**
@@ -38,16 +38,11 @@ Every post shows my real work. 💼
 🐼 Pandas, 🤖 Scikit-Learn, 🔗 LangChain, 🧠 LangGraph, 🛠️ MLOps Tools
 
 ### 📫 **Contact**
-✉️ **Email:** [zaynbrahme@gmail.com](mailto:zaynbrahme@gmail.com)
-💻 **GitHub:** [github.com/Brahme27](https://github.com/Brahme27?tab=repositories)
+✉️ **Email:** [sanamansoori705@gmail.com](mailto:sananmansoori705@gmail.com)
+💻 **GitHub:** [github.com/sanaa-04](https://github.com/sanaa-04?tab=repositories)
 
 ### 🙋‍♂️ Pronouns
-**He/Him**
-
-### 🎯 Hobbies
-🏏 Playing cricket
-🎧 Listening to music
-🏊 Swimming
+**She/Her**
 
 ### 👨‍🏫 **Teachers Who Inspire Me**
 Krish Naik, Sandeep Jain, Abdul Bari
