@@ -23,8 +23,6 @@ Every post shows my real work. 💼
 ✉️ **Email:** [sanamansoori705@gmail.com](mailto:sananmansoori705@gmail.com)
 💻 **GitHub:** [github.com/sanaa-04](https://github.com/sanaa-04?tab=repositories)
 
-### 🙋‍♂️ Pronouns
-**She/Her**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaa-04&show_icons=true&locale=en" alt="sanaa-04" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaa-04&show_icons=true&locale=en&layout=compact" alt="sanaa-04" /></p>
