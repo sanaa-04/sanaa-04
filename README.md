@@ -9,7 +9,7 @@
 I haven’t worked in other fields and don’t have skills outside this area. 🎯
 
 **LinkedIn > long bios** — check out my profile:
-🔗 [www.linkedin.com/in/sanaa04](https://www.linkedin.com/in/sanaa04)
+🔗 [www.linkedin.com/in/sana-mansoori04](https://www.linkedin.com/in/sana-mansoori04)
 Every post shows my real work. 💼
 
 ### 🛠️ **Practical Skills**
@@ -26,13 +26,8 @@ Every post shows my real work. 💼
 ### 🙋‍♂️ Pronouns
 **She/Her**
 
-### 👨‍🏫 **Teachers Who Inspire Me**
-Krish Naik, Sandeep Jain, Abdul Bari
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaa-04&show_icons=true&locale=en&layout=compact" alt="sanaa-04" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaa-04&show_icons=true&locale=en" alt="sanaa-04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaa-04&show_icons=true&locale=en&layout=compact" alt="sanaa-04" /></p>
 
                                                                                                                                              
                                                                                                                                              
