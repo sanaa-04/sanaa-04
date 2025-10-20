@@ -5,9 +5,6 @@
 
 - 💬 Ask me about **AI,ML and Data Science**
 
-**No shame in saying this:** I only know about **Machine Learning, Data Science, and AI**.
-I haven’t worked in other fields and don’t have skills outside this area. 🎯
-
 **LinkedIn > long bios** — check out my profile:
 🔗 [www.linkedin.com/in/sana-mansoori04](https://www.linkedin.com/in/sana-mansoori04)
 Every post shows my real work. 💼
