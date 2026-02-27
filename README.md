@@ -1,30 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sana Mansoori</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaa-04&label=Profile%20views&color=0e75b6&style=flat" alt="sanaa-04" /> </p>
+# 👋 Hi, I'm Sana Mansoori
 
-- 🌱 I’m currently learning **Agentic AI or AI Agents**
+## 🚀 About Me
+AI Developer with a strong background in **Artificial Intelligence, Machine Learning, and Automation Engineering**.  
+I specialize in building **AI-powered assistants, smart search tools, and automation pipelines** that streamline workflows and boost efficiency.
 
-- 💬 Ask me about **AI,ML and Data Science**
+- 🎓 Master's in Mathematics & Computer Science (AI/ML)
+- 📜 Certified Data Scientist – IIT Guwahati
+- 💼 Currently: AI Developer @ Almosen Company, Kuwait
+- 🔧 Skilled in Python, LangChain, LangGraph, TensorFlow, PyTorch, Scikit-Learn
+- 🛠️ Experienced in chatbot development, workflow optimization, and AI security
 
-**LinkedIn > long bios** — check out my profile:
-🔗 [www.linkedin.com/in/sana-mansoori04](https://www.linkedin.com/in/sana-mansoori04)
-Every post shows my real work. 💼
+---
 
-### 🛠️ **Practical Skills**
-**Worked on:**
-`DS`, `ML`, `DL`, `NLP`, `MLOps`, `GenAI`, `Agentic AI`
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **AI/ML:** TensorFlow, PyTorch, Scikit-Learn  
+- **LLM Frameworks:** LangChain, LangGraph  
+- **Other Skills:** Debugging, documentation, recruiter-friendly project summaries  
 
-**Favorites:**
-🐼 Pandas, 🤖 Scikit-Learn, 🔗 LangChain, 🧠 LangGraph, 🛠️ MLOps Tools
-
-### 📫 **Contact**
-✉️ **Email:** [sanamansoori705@gmail.com](mailto:sananmansoori705@gmail.com)
-💻 **GitHub:** [github.com/sanaa-04](https://github.com/sanaa-04?tab=repositories)
+---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaa-04&show_icons=true&locale=en" alt="sanaa-04" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaa-04&show_icons=true&locale=en&layout=compact" alt="sanaa-04" /></p>
+## 🌱 Current Goals
+- Refining automation-driven AI solutions for real-world applications  
+- Iteratively improving professional branding and recruiter visibility  
+- Practicing Python through hands-on exercises to deepen mastery  
 
-                                                                                                                                             
-                                                                                                                                             
-                                                                                                                                      
+---
 
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sana-mansoori04)   
+- 📧 [Email](mailto:sanamansoori705@gmail.com)  
+
+---
+
+⚡ *“Automation isn’t just about efficiency — it’s about unlocking creativity by removing friction.”*
