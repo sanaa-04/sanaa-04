@@ -43,7 +43,6 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 - **Tech Stack:** Python, Hugging Face, Transformers, PyTorch  
 - **Repo:** [Mythara](#)  
 
----
 
 ### 🔹 Codexis  
 - **Description:** Built and fine-tuned a 4-bit quantized Llama-2-7b chatbot using LoRA on a custom instruction dataset.  
@@ -54,7 +53,6 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 - **Tech Stack:** Python, Llama-2, LoRA, Gradio  
 - **Repo:** [Codexis](#)  
 
----
 
 ### 🔹 Astra Nav  
 - **Description:** Developed a Playwright-based browsing agent integrated with LangGraph for automated web navigation and orchestration.  
@@ -65,7 +63,6 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 - **Tech Stack:** Python, Playwright, LangGraph  
 - **Repo:** [Astra Nav](#)  
 
----
 
 ### 🔹 Docentis  
 - **Description:** Built a Retrieval-Augmented Generation (RAG) chatbot with LangChain for document-based Q&A.  
