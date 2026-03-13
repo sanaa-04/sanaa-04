@@ -35,44 +35,24 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 ## 📂 Projects  
 
 ### 🔹 Mythara  
-- **Description:** Designed and trained a compact Small Language Model (SLM) from scratch using the Tiny Stories dataset on Hugging Face.  
-- **Key Contributions:**  
-  - Implemented custom tokenization and transformer-based architecture.  
-  - Built a tailored training loop to generate coherent short-form narratives.  
-  - Improved fluency and creativity in generated outputs.  
-- **Tech Stack:** Python, Hugging Face, Transformers, PyTorch  
-- **Repo:** [Mythara](#)  
-
+- Built a compact Small Language Model (SLM) from scratch using the Tiny Stories dataset.  
+- Implemented custom tokenization, transformer architecture, and training loop.  
+- **Tech:** Python, Hugging Face, PyTorch  
 
 ### 🔹 Codexis  
-- **Description:** Built and fine-tuned a 4-bit quantized Llama-2-7b chatbot using LoRA on a custom instruction dataset.  
-- **Key Contributions:**  
-  - Applied low-rank adaptation (LoRA) for efficient fine-tuning.  
-  - Deployed the model via Gradio for real-time interaction.  
-  - Showcased prompt-based response generation with reduced compute cost.  
-- **Tech Stack:** Python, Llama-2, LoRA, Gradio  
-- **Repo:** [Codexis](#)  
-
+- Fine-tuned a 4-bit quantized Llama-2-7b chatbot using LoRA.  
+- Deployed via Gradio for real-time interaction.  
+- **Tech:** Python, Llama-2, LoRA, Gradio  
 
 ### 🔹 Astra Nav  
-- **Description:** Developed a Playwright-based browsing agent integrated with LangGraph for automated web navigation and orchestration.  
-- **Key Contributions:**  
-  - Automated data extraction from dynamic websites.  
-  - Integrated agent workflows into conversational pipelines.  
-  - Enabled tool-augmented navigation for intelligent assistants.  
-- **Tech Stack:** Python, Playwright, LangGraph  
-- **Repo:** [Astra Nav](#)  
-
+- Developed a Playwright-based browsing agent integrated with LangGraph.  
+- Automated dynamic web navigation and orchestration.  
+- **Tech:** Python, Playwright, LangGraph  
 
 ### 🔹 Docentis  
-- **Description:** Built a Retrieval-Augmented Generation (RAG) chatbot with LangChain for document-based Q&A.  
-- **Key Contributions:**  
-  - Implemented document ingestion and vector-based retrieval.  
-  - Delivered accurate, context-aware answers directly from source documents.  
-  - Enhanced user trust with grounded responses.  
-- **Tech Stack:** Python, LangChain, FAISS, Transformers  
-- **Repo:** [Docentis](#)  
-
+- Built a Retrieval-Augmented Generation (RAG) chatbot with LangChain.  
+- Delivered context-aware answers from source documents.  
+- **Tech:** Python, LangChain, FAISS, Transformers  
 ---
 
 ## 🎓 Certifications  
