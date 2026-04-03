@@ -61,7 +61,8 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 - Full Stack Data Science – AlmaBetter  
 - Advanced Generative AI Certification – Simplilearn  
 - Generative AI with LangChain & HuggingFace – Udemy  
-- Agentic AI with LangChain & LangGraph – Udemy  
+- Agentic AI with LangChain & LangGraph – Udemy
+- Advanced RAG Certification – Udemy
 
 ---
 
