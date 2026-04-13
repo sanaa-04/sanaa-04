@@ -33,27 +33,14 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 
 ---
 
-## 📂 Projects  
+## 📂 Projects
 
-### 🔹 Mythara  
-- Built a compact Small Language Model (SLM) from scratch using the Tiny Stories dataset.  
-- Implemented custom tokenization, transformer architecture, and training loop.  
-- **Tech:** Python, Hugging Face, PyTorch  
-
-### 🔹 Codexis  
-- Fine-tuned a 4-bit quantized Llama-2-7b chatbot using LoRA.  
-- Deployed via Gradio for real-time interaction.  
-- **Tech:** Python, Llama-2, LoRA, Gradio  
-
-### 🔹 Astra Nav  
-- Developed a Playwright-based browsing agent integrated with LangGraph.  
-- Automated dynamic web navigation and orchestration.  
-- **Tech:** Python, Playwright, LangGraph  
-
-### 🔹 Docentis  
-- Built a Retrieval-Augmented Generation (RAG) chatbot with LangChain.  
-- Delivered context-aware answers from source documents.  
-- **Tech:** Python, LangChain, FAISS, Transformers  
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Mythara** | Built a compact SLM from scratch on Tiny Stories — custom tokenizer, transformer architecture & training loop. | Python · Hugging Face · PyTorch |
+| **Codexis** | Fine-tuned a 4-bit quantized Llama-2-7b chatbot with LoRA, deployed via Gradio for real-time interaction. | Python · Llama-2 · LoRA · Gradio |
+| **Astra Nav** | Playwright-based browsing agent integrated with LangGraph for automated dynamic web navigation. | Python · Playwright · LangGraph |
+| **Docentis** | RAG chatbot built with LangChain delivering context-aware answers from source documents via FAISS retrieval. | Python · LangChain · FAISS · Transformers | 
 ---
 
 ## 🎓 Certifications  
