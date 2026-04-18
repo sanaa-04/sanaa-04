@@ -33,7 +33,7 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🔮 Mythara
 Built a compact SLM from scratch on Tiny Stories — custom tokenizer, transformer architecture & training loop.
