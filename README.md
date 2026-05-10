@@ -4,7 +4,7 @@
 AI Developer with expertise in **Artificial Intelligence, Machine Learning, and Automation Engineering**. 
 I specialize in building **AI-powered assistants, smart search tools, and automation pipelines** that streamline workflows and boost efficiency.  
 
-- 🎓 Master's in Computer Science (AI & ML), Woolf University (Dec 2025)  
+- 🎓 Master's in Computer Science (AI & ML), Woolf University (Dec 2025) 
 - 🎓 Master's in Mathematics, Nirwan University (2024)  
 - 🎓 Bachelor's in Mathematics, Kota University (2022)  
 - 📜 Certified Data Scientist – IIT Guwahati  
