@@ -9,7 +9,7 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 - 🎓 Bachelor's in Mathematics, Kota University (2022)  
 - 📜 Certified Data Scientist – IIT Guwahati  
 - 💼 Currently: AI Developer (Contractual) @ Almosen Company, Kuwait
-- 🏢 Building: AL NOOR AI – an AI agency focused on intelligent automation and next-gen AI solutions  
+- 🏢 Building: AL NOOR AI – an AI agency focused on intelligent automation and next-gen AI solutions 
 - 🔧 Skilled in Python, LangChain, LangGraph, TensorFlow, PyTorch, Scikit-Learn 
 - 🛠️ Experienced in chatbot development, workflow optimization, and AI security  
 
