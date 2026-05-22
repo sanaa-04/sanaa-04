@@ -18,7 +18,7 @@ I specialize in building **AI-powered assistants, smart search tools, and automa
 ## 🛠️ Tech Stack  
 - **Languages & Frameworks:** Python, SQL, Numpy, Pandas, Keras, TensorFlow, PyTorch, Scikit-Learn  
 - **AI & ML Tools:** LangChain, LangGraph, Hugging Face, Transformers, RAG, MCP, A2A
-- **Other Tools:** Git, GitHub, n8n, AWS, Microsoft Azure  
+- **Other Tools:** Git, GitHub, n8n, AWS, Microsoft Azure 
 - **Core Skills:** Data Science, Machine Learning, Deep Learning, Generative AI, Agentic AI, Fine Tuning  
 
 ---
