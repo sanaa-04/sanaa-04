@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sana Mansoori  
 
 ## 🚀 About Me  
-AI Developer with expertise in **Artificial Intelligence, Machine Learning, and Automation Engineering**. 
+AI Developer with expertise in **Artificial Intelligence, Machine Learning, and Automation Engineering**.
 I specialize in building **AI-powered assistants, smart search tools, and automation pipelines** that streamline workflows and boost efficiency.  
 
 - 🎓 Master's in Computer Science (AI & ML), Woolf University (Dec 2025) 
